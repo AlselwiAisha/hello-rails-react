@@ -2413,9 +2413,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.601":
-  version: 1.4.637
-  resolution: "electron-to-chromium@npm:1.4.637"
-  checksum: 5b0eee32322d6c0d5b8627b6d733d6bc2f144b34d7e25e0dc513fd1d77e95fac093aec5acf7c47464f9da23559a3176dfe0fdd4d5efc1f40428413c29622e1d3
+  version: 1.4.639
+  resolution: "electron-to-chromium@npm:1.4.639"
+  checksum: f16293e69c5c31d836d1a3fdafb07f7a19a0f9a1137893aea879758f6de7d212480f4204e14f0669e653a5a3a1c35f6d1cbd54d4dd9e6ace7e22638270c9984e
   languageName: node
   linkType: hard
 
@@ -3850,26 +3850,26 @@ __metadata:
   linkType: hard
 
 "react-router-dom@npm:^6.21.2":
-  version: 6.21.2
-  resolution: "react-router-dom@npm:6.21.2"
+  version: 6.21.3
+  resolution: "react-router-dom@npm:6.21.3"
   dependencies:
     "@remix-run/router": 1.14.2
-    react-router: 6.21.2
+    react-router: 6.21.3
   peerDependencies:
     react: ">=16.8"
     react-dom: ">=16.8"
-  checksum: 3fc17fd6693ba8fd710937a5d694172eac4b14dddfe3df61f5339718fa36caaa894135807e0d704bddd5f277db6950117bb312d76da90921dd014e225b2cf575
+  checksum: bcf668aa1428ca3048d7675f1ae3fe983c8792357a0ed59a1414cb1d682227727aad7c44c4222c6774b8d01bf352478845f7f3f668ebfcaa177208ef64e10bdc
   languageName: node
   linkType: hard
 
-"react-router@npm:6.21.2":
-  version: 6.21.2
-  resolution: "react-router@npm:6.21.2"
+"react-router@npm:6.21.3":
+  version: 6.21.3
+  resolution: "react-router@npm:6.21.3"
   dependencies:
     "@remix-run/router": 1.14.2
   peerDependencies:
     react: ">=16.8"
-  checksum: 8c38a4914892d5b8052bc5c244af95109affd8b74bffa16f9ea7856dc0e992dd8539b19d2618721cd7ef091a585f394fac9d05ab7a98cf3ca6aeb7519b7bce0e
+  checksum: 7e6297d5b67ae07d2e8564e036dbb15ebd706b41c22238940f47eee9b21ffb76d41336803c3b33435f1ebe210226577e32df3838bcbf2cd7c813fa357c0a4fac
   languageName: node
   linkType: hard
 
